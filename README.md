@@ -1,5 +1,5 @@
 # Hacker-News-Content_Analysis
-- Hacker News 
+- Hacker News Content Analysis
 
 - Technology: SEO Content Development
 
