@@ -7,14 +7,14 @@
 
 - The data was analyzed and descriptive statistics were generated. Means were calculated for post types to identify which post type receives the most comments on average. Frequency counts per hour were calculated for comments to identify the top 5 hours in which to make comments.
 
-- 20,000 posts data set from Kaggle that includes 7 features. A complete explanation can be found at the Kaggle webpage: https://www.kaggle.com/hacker-news/hacker-news-posts
+- 20,000 posts data set from Kaggle that includes 7 features. A complete explanation can be found at the Kaggle [webpage](https://www.kaggle.com/hacker-news/hacker-news-posts)
 
 ## Processing Instructions:
-- https://drive.google.com/file/d/1fQfqKCnHTR0HBUNsxNtnmwZU-gfcuraA/view?usp=sharing to view HMTL version of report.
+- [Report Here](https://drive.google.com/file/d/1fQfqKCnHTR0HBUNsxNtnmwZU-gfcuraA/view?usp=sharing)
 - To improve reproducibility of the data analysis, a Jupyter Notebook file is included.
 
 ## Steps to Transformation:
-- Data was downloaded from https://www.kaggle.com/hacker-news/hacker-news-posts
+- [Data download](https://www.kaggle.com/hacker-news/hacker-news-posts)
 - File “hacker_news.csv” was imported into Jupyter Notebook.
 - Removed headers.
 - Converted values to lowercase.
